@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserSelectionApp</string>
+    <string name="facebook_app_id">406210586481275</string>
+    <string name="facebook_access_token">EAACEdEose0cBANejaUypbh4HejGEZCrQ9K8i1RjE7uqXPMziubP8tNzP1ZBS0StAeJN4GRkv8TeslywZCNdUeZAfoNM7AJDye79o9DFCmrqBgPriBxOg6mIN8Eq5iwUo8ombwmZAabnXnZAquCzMZBcpvt7SthDvEtZAqHeiZA2EYYHpKMdbPUkNF9sAAUr23FC4kwkde7gYnZAgZDZD</string>
+    <string name="facebook_app_secret">6250b6729328b3bae1a8e6c92a05fc0e</string>
+    <string name="facebook_user_id">290109044770536</string>
+</resources>
